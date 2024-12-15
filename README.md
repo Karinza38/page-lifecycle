@@ -1,4 +1,4 @@
-# Lifecycle API for Web Pages
+Lifecycle API for Web Pages
 Link to spec: https://wicg.github.io/page-lifecycle/
 
 ## Motivation
